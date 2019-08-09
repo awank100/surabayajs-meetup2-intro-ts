@@ -1,0 +1,14 @@
+{
+  "name": "surabayajs-meetup2-intro-ts",
+  "description": "SurabayaJs Meetup #2 - Introduction Typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "awank100 <mas.awank100@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^3.5.2"
+  },
+  "scripts": {
+    "start": "tsc -w"
+  }
+}
